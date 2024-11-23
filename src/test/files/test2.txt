@@ -1,4 +1,8 @@
-test
-test 1
-test 2
-test 3 test 4 test 5 test 6
+new: package it.unbugger;                                         
+new:                                                              
+new: public class Application {                                   
+new:                                                              
+new: 	public static void main(String[] args) throws IOException {
+new:                                                              
+new: 	}                                                          
+new: }                                                            
